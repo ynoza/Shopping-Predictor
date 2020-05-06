@@ -6,5 +6,5 @@ pip3 install scikit-learn
 
 # Usage:
 $ python shopping.py shopping.csv  
-Correct: 4088
+Correct: 4088  
 Incorrect: 844
